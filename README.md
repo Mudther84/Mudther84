@@ -121,9 +121,9 @@ I love designing scalable APIs, building secure web applications, and deploying 
 
 ## 📬 Contact | تواصل معي
 
-📧 Email: yourmail@example.com  
-💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
-🌐 Portfolio: [My Portfolio](https://yourportfolio.com)  
+📧 Email: moudaseryassin@gmail.com
+💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/moudather-yassin-0260b2378/)  
+🌐 Portfolio: [My Portfolio](https://portofilio-navy.vercel.app/)  
 
 ---
 
