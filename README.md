@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Mudther | مرحبًا، أنا مدثر  
 
 <p align="left">
-  <img alt="coding-animation" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" width="320" />
+  <img alt="coding-person" src="https://raw.githubusercontent.com/moudatheryassin/moudatheryassin/main/computer.png" align="right" width="380" />
 </p>
 
 ---
@@ -127,5 +127,5 @@ I love designing scalable APIs, building secure web applications, and deploying 
 
 ---
 
-## ✨ Typing Animation (Optional)
+## ✨ Typing Animation
 ![typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7FFFD4&width=600&lines=Full-Stack+Developer;Java+Spring+Boot+%26+Microservices;Back-End+Engineer;API+Designer;Always+Learning+%F0%9F%92%A1)
