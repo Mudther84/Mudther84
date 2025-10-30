@@ -1,4 +1,7 @@
-# 👋 Hi there, I'm Mudther | مرحبًا، أنا مدثر  
+<h1 align="left" style="border:none; font-weight:700;">
+  👋 Hi there, I'm Mudther | مرحبًا، أنا مدثر
+</h1>
+
 
 <p align="left">
   <img alt="coding-animation" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="380" />
