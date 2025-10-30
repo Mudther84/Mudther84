@@ -1,8 +1,8 @@
+# 👋 Hi there, I'm Mudther | مرحبًا، أنا مدثر  
+
 <p align="left">
-  <img alt="coding-animation" src="https://raw.githubusercontent.com/your-username/your-username/main/animation.gif" align="right" width="320" />
+  <img alt="coding-animation" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" width="320" />
 </p>
-# 👋 Hi there, I'm [Mudther] | مرحبًا، أنا [مدثر]
-<img align="right" alt="Coding animation" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 ---
 
@@ -13,7 +13,6 @@ I'm a **Full-Stack Developer** with a strong focus on **Back-End Engineering usi
 I love designing scalable APIs, building secure web applications, and deploying them using modern DevOps tools.  
 
 🇸🇦  
-
 أنا **مطوّر Full-Stack** أركز على تطوير الواجهة الخلفية باستخدام **Java Spring Boot**.  
 أهتم بتصميم واجهات برمجية قابلة للتوسع، وتطبيق ممارسات الأمان الحديثة، ونشر الأنظمة باستخدام أدوات DevOps الاحترافية.
 
@@ -109,8 +108,8 @@ I love designing scalable APIs, building secure web applications, and deploying 
 
 ## 📊 GitHub Stats
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![Mudther's GitHub stats](https://github-readme-stats.vercel.app/api?username=moudatheryassin&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moudatheryassin&layout=compact&theme=dark)
 
 ---
 
@@ -122,9 +121,9 @@ I love designing scalable APIs, building secure web applications, and deploying 
 
 ## 📬 Contact | تواصل معي
 
-📧 Email: moudaseryassin@gmail.com
-💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/moudather-yassin-0260b2378/)  
-🌐 Portfolio: [My Portfolio](https://portofilio-navy.vercel.app/)  
+📧 **Email:** [moudaseryassin@gmail.com](mailto:moudaseryassin@gmail.com)  
+💼 **LinkedIn:** [Mudther Yassin](https://www.linkedin.com/in/moudather-yassin-0260b2378/)  
+🌐 **Portfolio:** [My Portfolio](https://portofilio-navy.vercel.app/)  
 
 ---
 
