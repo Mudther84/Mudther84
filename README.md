@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Mudther | مرحبًا، أنا مدثر  
 
 <p align="left">
-  <img alt="coding-person" src="https://raw.githubusercontent.com/moudatheryassin/moudatheryassin/main/computer.png" align="right" width="380" />
+  <img alt="coding-animation" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="380" />
 </p>
 
 ## 🌐 About Me | نبذة عني
