@@ -1,10 +1,6 @@
 # 👋 Hi there, I'm [Mudther] | مرحبًا، أنا [مدثر]
 <img align="right" alt="Coding animation" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-<p align="left">
-  <img alt="coding-animation" src="https://raw.githubusercontent.com/your-username/your-username/main/animation.gif" align="right" width="320" />
-</p>
-
 ---
 
 ## 🌐 About Me | نبذة عني
@@ -14,6 +10,9 @@ I'm a **Full-Stack Developer** with a strong focus on **Back-End Engineering usi
 I love designing scalable APIs, building secure web applications, and deploying them using modern DevOps tools.  
 
 🇸🇦  
+<p align="left">
+  <img alt="coding-animation" src="https://raw.githubusercontent.com/your-username/your-username/main/animation.gif" align="right" width="320" />
+</p>
 أنا **مطوّر Full-Stack** أركز على تطوير الواجهة الخلفية باستخدام **Java Spring Boot**.  
 أهتم بتصميم واجهات برمجية قابلة للتوسع، وتطبيق ممارسات الأمان الحديثة، ونشر الأنظمة باستخدام أدوات DevOps الاحترافية.
 
