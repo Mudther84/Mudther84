@@ -2,12 +2,13 @@
   👋 Hi there, I'm Mudther | مرحبًا، أنا مدثر
 </h1>
 
-
 <p align="left">
   <img alt="coding-animation" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="380" />
 </p>
 
-## 🌐 About Me | نبذة عني
+<h2 align="left" style="border:none; font-weight:700; margin-bottom:10px;">
+  🌐 About Me | نبذة عني
+</h2>
 
 🇬🇧  
 I'm a **Full-Stack Developer** with a strong focus on **Back-End Engineering using Java Spring Boot**.  
