@@ -4,8 +4,6 @@
   <img alt="coding-person" src="https://raw.githubusercontent.com/moudatheryassin/moudatheryassin/main/computer.png" align="right" width="380" />
 </p>
 
----
-
 ## 🌐 About Me | نبذة عني
 
 🇬🇧  
