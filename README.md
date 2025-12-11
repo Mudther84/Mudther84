@@ -106,14 +106,6 @@ I love designing scalable APIs, building secure web applications, and deploying 
 🔹 **E-commerce RESTful API with JWT & Swagger Docs**  
 🔹 **Portfolio Website (HTML/CSS/JS + Spring Boot Backend)**  
 
----
-## 📊 GitHub Stats
-
-<!-- إحصائيات الحساب -->
-[![Mudther's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mudther84&show_icons=true&theme=dark&hide_border=false)](https://github.com/Mudther84)
-
-<!-- أفضل اللغات المستخدمة -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mudther84&layout=compact&theme=dark&hide_border=false)](https://github.com/Mudther84)
 
 
 ---
