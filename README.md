@@ -107,11 +107,14 @@ I love designing scalable APIs, building secure web applications, and deploying 
 🔹 **Portfolio Website (HTML/CSS/JS + Spring Boot Backend)**  
 
 ---
-
 ## 📊 GitHub Stats
 
-![Mudther's GitHub stats](https://github-readme-stats.vercel.app/api?username=moudatheryassin&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moudatheryassin&layout=compact&theme=dark)
+<!-- إحصائيات الحساب -->
+[![Mudther's GitHub stats](https://github-readme-stats.vercel.app/api?username=moudatheryassin&show_icons=true&theme=dark&hide_border=false)](https://github.com/moudatheryassin)
+
+<!-- أفضل اللغات المستخدمة -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moudatheryassin&layout=compact&theme=dark&hide_border=false)](https://github.com/moudatheryassin)
+
 
 ---
 
