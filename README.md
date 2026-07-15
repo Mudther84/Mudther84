@@ -126,3 +126,6 @@ I love designing scalable APIs, building secure web applications, and deploying 
 
 ## ✨ Typing Animation
 ![typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7FFFD4&width=600&lines=Full-Stack+Developer;Java+Spring+Boot+%26+Microservices;Back-End+Engineer;API+Designer;Always+Learning+%F0%9F%92%A1)
+
+<img width="1536" height="2048" alt="FB_IMG_1784132769671" src="https://github.com/user-attachments/assets/6d58934a-89d9-454f-8965-e9d30b23046f" />
+
