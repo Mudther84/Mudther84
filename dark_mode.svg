@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
 <style>
 @font-face {
-src: local('Consolas'), local('Consolas Bold');
 font-family: 'ConsolasFallback';
+src: url('https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/fonts/webfonts/JetBrainsMono-Regular.woff2') format('woff2'),
+     local('Consolas'), local('Consolas Bold');
 font-display: swap;
 -webkit-size-adjust: 109%;
 size-adjust: 109%;
@@ -22,7 +22,6 @@ text, tspan {white-space: pre;}
 </defs>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
 
-<!-- صورتك الشخصية -->
 <image href="https://raw.githubusercontent.com/Mudther84/Mudther84/main/profile.jpg" 
        x="30" y="60" width="240" height="240" 
        clip-path="url(#circle)" 
