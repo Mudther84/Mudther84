@@ -2,6 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc?username=moudather-yassin&color=00DC82&style=flat-square)
 
+<img src="dark_mode.svg" alt="Profile" />
+
 </div>
 
 <pre>
@@ -32,7 +34,7 @@
   <span style="color: #FF79C6">❯</span> Booking App (Spring Boot + MySQL + Frontend)
   <span style="color: #FF79C6">❯</span> Student Management System (RESTful API)
   <span style="color: #FF79C6">❯</span> E-commerce API (JWT Auth + Swagger)
-  <span style="color: #FF79C6">❯</span> Portfolio Website (Full-Stack)
+  <span style="color: #FF79C6"></span> Portfolio Website (Full-Stack)
 
 <span style="color: #F1FA8C; font-weight: bold;"> Connect with me:</span>
   <span style="color: #8BE9FD"></span> Email: moudaseryassin@gmail.com
