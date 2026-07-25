@@ -23,7 +23,7 @@ text, tspan {white-space: pre;}
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
 
 <!-- صورتك الشخصية -->
-<image href="profile.jpg" 
+<image href="https://raw.githubusercontent.com/Mudther84/Mudther84/main/profile.jpg" 
        x="30" y="60" width="240" height="240" 
        clip-path="url(#circle)" 
        preserveAspectRatio="xMidYMid slice"/>
