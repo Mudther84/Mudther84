@@ -1,0 +1,83 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:     # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install GitHub API tools
+        run: |
+          npm install -g @octokit/rest
+
+      - name: Fetch GitHub Stats
+        id: stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        run: |
+          # Get user stats
+          USER_DATA=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            https://api.github.com/users/$USERNAME)
+          
+          REPOS=$(echo "$USER_DATA" | jq -r '.public_repos')
+          FOLLOWERS=$(echo "$USER_DATA" | jq -r '.followers')
+          FOLLOWING=$(echo "$USER_DATA" | jq -r '.following')
+          
+          # Get total stars
+          STARS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/users/$USERNAME/repos?per_page=100" | \
+            jq '[.[].stargazers_count] | add')
+          
+          echo "repos=$REPOS" >> $GITHUB_OUTPUT
+          echo "followers=$FOLLOWERS" >> $GITHUB_OUTPUT
+          echo "following=$FOLLOWING" >> $GITHUB_OUTPUT
+          echo "stars=$STARS" >> $GITHUB_OUTPUT
+
+      - name: Update README with stats
+        run: |
+          # Create a stats badge section
+          cat > stats.md << EOF
+          <div align="center">
+          
+          ### 📊 Live Statistics
+          
+          ![Repositories](https://img.shields.io/badge/Repositories-${{ steps.stats.outputs.repos }}-blue?style=for-the-badge&logo=github)
+          ![Followers](https://img.shields.io/badge/Followers-${{ steps.stats.outputs.followers }}-green?style=for-the-badge&logo=github)
+          ![Stars](https://img.shields.io/badge/Stars_Received-${{ steps.stats.outputs.stars }}-yellow?style=for-the-badge&logo=github)
+          
+          </div>
+          EOF
+          
+          # Insert stats after the profile views badge
+          if [ -f README.md ]; then
+            sed -i '/komarev.com\/ghpvc/r stats.md' README.md
+            rm stats.md
+          fi
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          if git diff --quiet README.md; then
+            echo "No changes to commit"
+          else
+            git add README.md
+            git commit -m "chore: auto-update GitHub stats [skip ci]"
+            git push
+          fi
