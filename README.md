@@ -6,113 +6,77 @@
   <img alt="coding-animation" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="380" />
 </p>
 
-```
-       .---.                mudther@github
-      /     \               ---------------
-      | o o |               Role: Full-Stack Developer
-      \  ^  /               Focus: Java Spring Boot | Back-End
-       |||||                Languages: Java, JavaScript, HTML, CSS, SQL
-      /|||||\               Frameworks: Spring Boot, Spring MVC, Spring Security
-     //|||||\\              Databases: MySQL, PostgreSQL, MongoDB, Redis
-    // ||||| \\             DevOps: Docker, Kubernetes, AWS/GCP, CI/CD
-```
+<h2 align="left" style="border:none; font-weight:700; margin-bottom:10px;">
+  🌐 About Me | نبذة عني
+</h2>
 
-## 🌐 About Me | نبذة عني
+🇬🇧  
+I'm a **Full-Stack Developer** with a strong focus on **Back-End Engineering using Java Spring Boot**.  
+I love designing scalable APIs, building secure web applications, and deploying them using modern DevOps tools.  
 
-🇬🇧
-I'm a **Full-Stack Developer** with a strong focus on **Back-End Engineering using Java Spring Boot**.
-I love designing scalable APIs, building secure web applications, and deploying them using modern DevOps tools.
-
-🇸🇦
-أنا **مطوّر Full-Stack** أركز على تطوير الواجهة الخلفية باستخدام **Java Spring Boot**.
+🇸🇦  
+أنا **مطوّر Full-Stack** أركز على تطوير الواجهة الخلفية باستخدام **Java Spring Boot**.  
 أهتم بتصميم واجهات برمجية قابلة للتوسع، وتطبيق ممارسات الأمان الحديثة، ونشر الأنظمة باستخدام أدوات DevOps الاحترافية.
 
 ---
 
 ## ⚙️ Technical Skills — المهارات التقنية
 
-<details>
-<summary>🖥️ Back-End Development</summary>
+### 🖥️ Back-End Development:
+- Java (Java 8+), OOP, Multithreading, Stream API  
+- Spring Framework (Spring Boot, Spring MVC, Spring Data JPA, Spring Security)  
+- RESTful API Design & Development  
+- Microservices Architecture  
+- Hibernate / JPA ORM  
+- Maven / Gradle  
 
-- Java (Java 8+), OOP, Multithreading, Stream API
-- Spring Framework (Spring Boot, Spring MVC, Spring Data JPA, Spring Security)
-- RESTful API Design & Development
-- Microservices Architecture
-- Hibernate / JPA ORM
-- Maven / Gradle
-</details>
+### 🗄️ Databases:
+- MySQL, PostgreSQL, Oracle, MongoDB  
+- Redis (Caching)  
+- SQL Queries, Joins, Indexing, Transactions  
 
-<details>
-<summary>🗄️ Databases</summary>
+### 🔒 Security:
+- JWT Authentication & Authorization  
+- OAuth2  
+- Role-Based Access Control (RBAC)  
+- Secure Coding (OWASP Best Practices)  
 
-- MySQL, PostgreSQL, Oracle, MongoDB
-- Redis (Caching)
-- SQL Queries, Joins, Indexing, Transactions
-</details>
+### ☁️ DevOps & Deployment:
+- Docker, Kubernetes  
+- CI/CD (Jenkins, GitHub Actions)  
+- AWS / Google Cloud (EC2, S3, RDS)  
 
-<details>
-<summary>🔒 Security</summary>
+### 🧱 Software Design & Architecture:
+- SOLID Principles  
+- Design Patterns (Factory, Singleton, Strategy, Observer)  
+- Clean Architecture  
+- Domain-Driven Design (DDD)  
+- MVC Pattern  
+- REST API Documentation (Swagger / OpenAPI)  
 
-- JWT Authentication & Authorization
-- OAuth2
-- Role-Based Access Control (RBAC)
-- Secure Coding (OWASP Best Practices)
-</details>
+### 🧪 Testing:
+- JUnit, Mockito, Testcontainers  
+- Postman  
+- Integration & Unit Testing  
 
-<details>
-<summary>☁️ DevOps & Deployment</summary>
+### 🧰 Tools & Technologies:
+- IntelliJ IDEA, Eclipse  
+- Git, GitHub, GitLab, Bitbucket  
+- Swagger, Postman  
+- Logging (Logback, SLF4J)  
 
-- Docker, Kubernetes
-- CI/CD (Jenkins, GitHub Actions)
-- AWS / Google Cloud (EC2, S3, RDS)
-</details>
+### 🤝 Soft Skills:
+- Problem Solving, Debugging  
+- Teamwork, Agile / Scrum  
+- Time Management, Communication  
+- Technical Documentation  
 
-<details>
-<summary>🧱 Software Design & Architecture</summary>
-
-- SOLID Principles
-- Design Patterns (Factory, Singleton, Strategy, Observer)
-- Clean Architecture
-- Domain-Driven Design (DDD)
-- MVC Pattern
-- REST API Documentation (Swagger / OpenAPI)
-</details>
-
-<details>
-<summary>🧪 Testing</summary>
-
-- JUnit, Mockito, Testcontainers
-- Postman
-- Integration & Unit Testing
-</details>
-
-<details>
-<summary>🧰 Tools & Technologies</summary>
-
-- IntelliJ IDEA, Eclipse
-- Git, GitHub, GitLab, Bitbucket
-- Swagger, Postman
-- Logging (Logback, SLF4J)
-</details>
-
-<details>
-<summary>🤝 Soft Skills</summary>
-
-- Problem Solving, Debugging
-- Teamwork, Agile / Scrum
-- Time Management, Communication
-- Technical Documentation
-</details>
-
-<details>
-<summary>🏆 Bonus</summary>
-
-- Spring Cloud (Eureka, Config Server, API Gateway)
-- Kafka, RabbitMQ
-- Docker Compose
-- CI/CD Pipelines
-- Cloud-Native Applications (AWS / GCP)
-</details>
+### 🏆 Bonus (Optional):
+- Spring Cloud (Eureka, Config Server, API Gateway)  
+- Kafka, RabbitMQ  
+- Docker Compose  
+- CI/CD Pipelines  
+- Cloud-Native Applications (AWS / GCP)  
 
 ---
 
@@ -137,38 +101,29 @@ I love designing scalable APIs, building secure web applications, and deploying 
 
 ## 🚀 Projects | المشاريع
 
-🔹 **Booking App** — Java + Spring Boot + MySQL + HTML/CSS/JS
-🔹 **Student Management System** — Full CRUD REST API
-🔹 **E-commerce RESTful API** — with JWT & Swagger Docs
-🔹 **Portfolio Website** — HTML/CSS/JS + Spring Boot Backend
+🔹 **Booking App (Java + Spring Boot + MySQL + HTML/CSS/JS)**  
+🔹 **Student Management System (Full CRUD REST API)**  
+🔹 **E-commerce RESTful API with JWT & Swagger Docs**  
+🔹 **Portfolio Website (HTML/CSS/JS + Spring Boot Backend)**  
 
----
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mudther&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudther&layout=compact&theme=radical&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mudther&theme=radical&hide_border=true)
-
-> ⚠️ استبدل `mudther` في الروابط دي بيوزرنيم GitHub الفعلي بتاعك عشان الإحصائيات تظهر صح.
 
 ---
 
 ## 💬 Fun Fact
-
-> "The first rule of programming: If it works, don't touch it." 😄
-> القاعدة الأولى في البرمجة: إذا كان يعمل، فلا تلمسه 😅
+> “The first rule of programming: If it works, don’t touch it.” 😄  
+> القاعدة الأولى في البرمجة: إذا كان يعمل، فلا تلمسه 😅  
 
 ---
 
 ## 📬 Contact | تواصل معي
 
-📧 **Email:** [moudaseryassin@gmail.com](mailto:moudaseryassin@gmail.com)
-💼 **LinkedIn:** [Mudther Yassin](https://www.linkedin.com/in/moudather-yassin-0260b2378/)
-🌐 **Portfolio:** [My Portfolio](https://protofolio-beqy.vercel.app/)
+📧 **Email:** [moudaseryassin@gmail.com](mailto:moudaseryassin@gmail.com)  
+💼 **LinkedIn:** [Mudther Yassin](https://www.linkedin.com/in/moudather-yassin-0260b2378/)  
+🌐 **Portfolio:** [My Portfolio](https://protofolio-beqy.vercel.app/)  
 
 ---
 
 ## ✨ Typing Animation
-
 ![typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7FFFD4&width=600&lines=Full-Stack+Developer;Java+Spring+Boot+%26+Microservices;Back-End+Engineer;API+Designer;Always+Learning+%F0%9F%92%A1)
+
