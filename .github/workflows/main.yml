@@ -1,0 +1,40 @@
+name: تحديث بطاقة الـ README
+
+on:
+  schedule:
+    - cron: '30 0 * * *'   # كل يوم الساعة 00:30 UTC (عدّلها زي ما تحب)
+  workflow_dispatch:         # يسمح بتشغيل السكربت يدويًا من تاب Actions
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    name: تحديث الإحصائيات
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: نسخ الريبو
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: تجهيز بايثون
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: تثبيت المكتبات المطلوبة
+        run: pip install -r requirements.txt
+
+      - name: تشغيل السكربت وتحديث الـ SVG
+        run: python main.py
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          USER_NAME: ${{ github.repository_owner }}
+
+      - name: حفظ ورفع التعديلات
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: تحديث تلقائي لإحصائيات الـ README
+          file_pattern: 'dark_mode.svg light_mode.svg cache/*'
