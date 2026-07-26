@@ -213,6 +213,7 @@ def loc_query(owner_affiliation, comment_size=0, force_cache=False, cursor=None,
 
 def cache_builder(edges, comment_size, force_cache, loc_add=0, loc_del=0):
     """يتأكد لو الريبو اتغير عن آخر مرة، ولو اتغير يعيد حساب الأسطر بتاعته بس"""
+    edges = [edge for edge in edges if edge.get('node') is not None]  # تجاهل أي ريبو رجع بياناته null (زي ريبوهات مش متاحة للتوكن)
     cached = True
     filename = 'cache/' + hashlib.sha256(USER_NAME.encode('utf-8')).hexdigest() + '.txt'
     try:
@@ -277,10 +278,13 @@ def force_close_file(data, cache_comment):
 
 
 def stars_counter(data):
-    """يجمع عدد النجوم في كل الريبوهات بتاعتك"""
+    """يجمع عدد النجوم في كل الريبوهات بتاعتك، ويتجاهل أي ريبو رجع بياناته فاضية (null)"""
     total_stars = 0
     for node in data:
-        total_stars += node['node']['stargazers']['totalCount']
+        repo = node.get('node')
+        if repo is None:
+            continue
+        total_stars += repo['stargazers']['totalCount']
     return total_stars
 
 
