@@ -1,6 +1,15 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc?username=moudather-yassin&color=00DC82&style=flat-square)
+<div align="center">
+
+### 📊 Live Statistics
+
+![Repositories](https://img.shields.io/badge/Repositories-49-blue?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Followers-1-green?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/badge/Stars_Received-0-yellow?style=for-the-badge&logo=github)
+
+</div>
 
 <img src="dark_mode.svg" alt="Profile" />
 
