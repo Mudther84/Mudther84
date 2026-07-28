@@ -14,6 +14,13 @@
 
 <br>
 
+<p align="center">
+  <img src="dark_mode.svg#gh-dark-mode-only" alt="Mudther's GitHub Stats (Dark)" />
+  <img src="light_mode.svg#gh-light-mode-only" alt="Mudther's GitHub Stats (Light)" />
+</p>
+
+<br>
+
 <pre align="center">
 mudther@backend-dev
 -------------------
