@@ -1,63 +1,66 @@
-<div align="center">
+<h1 align="center">Mudther Yassin</h1>
+<h3 align="center">مدثر ياسين</h3>
 
-![Profile Views](https://komarev.com/ghpvc?username=moudather-yassin&color=00DC82&style=flat-square)
-<div align="center">
+<p align="center">
+  <a href="https://github.com/mudther"><b>Follow</b></a> •
+  <a href="mailto:moudaseryassin@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/moudather-yassin-0260b2378/">LinkedIn</a> •
+  <a href="https://protofolio-beqy.vercel.app/">Portfolio</a>
+</p>
 
-### 📊 Live Statistics
+<p align="center">
+  <img src="https://komarev.com/ghpvc?username=moudather-yassin&color=00DC82&style=flat-square" alt="Profile Views" />
+</p>
 
-![Repositories](https://img.shields.io/badge/Repositories-49-blue?style=for-the-badge&logo=github)
-![Followers](https://img.shields.io/badge/Followers-1-green?style=for-the-badge&logo=github)
-![Stars](https://img.shields.io/badge/Stars_Received-0-yellow?style=for-the-badge&logo=github)
+<br>
 
-</div>
+<pre align="center">
+mudther@backend-dev
+-------------------
+<b>OS</b>: Java Spring Boot Enterprise Edition
+<b>Host</b>: Full-Stack Development Environment
+<b>Kernel</b>: Clean Architecture / DDD
+<b>Uptime</b>: Always learning, never stopping 🚀
+<b>IDE</b>: IntelliJ IDEA
+<b>Shell</b>: Maven / Gradle
 
-<img src="dark_mode.svg" alt="Profile" />
+<b>Languages.Backend</b>: Java, SQL
+<b>Frameworks</b>: Spring Boot, Spring MVC, Spring Data JPA, Spring Security
+<b>Databases</b>: MySQL, PostgreSQL, Oracle, MongoDB, Redis
+<b>DevOps</b>: Docker, Kubernetes, Jenkins, GitHub Actions, AWS/GCP
+<b>Testing</b>: JUnit, Mockito, Testcontainers, Postman
+<b>Security</b>: JWT, OAuth2, RBAC, OWASP
 
-</div>
-
-<pre>
-<span style="color: #00DC82; font-weight: bold;">moudather-yassin</span>@<span style="color: #00DC82; font-weight: bold;">github</span>:~$ <span style="color: #FFB86C">cat</span> profile.txt
-
-<span style="color: #BD93F9; font-weight: bold;">👋 Hi there, I'm Mudther | مرحبًا، أنا مدثر</span>
-───────────────────────────────────────────────────────
-
-<span style="color: #8BE9FD; font-weight: bold;">🎯 Role:</span> Full-Stack Developer | Back-End Engineer
-<span style="color: #8BE9FD; font-weight: bold;">🎓 Education:</span> BSc Computer Science - National Ribat University (2025)
-<span style="color: #8BE9FD; font-weight: bold;">📍 Location:</span> Sudan 🇸🇩 → Egypt 🇬
-<span style="color: #8BE9FD; font-weight: bold;">💼 Focus:</span> Java Spring Boot, Microservices, RESTful APIs
-
-<span style="color: #50FA7B; font-weight: bold;">⚙️ Technical Skills:</span>
-  <span style="color: #F1FA8C">Back-End:</span>     Java, Spring Boot, Spring Security, JPA/Hibernate
-  <span style="color: #F1FA8C">Databases:</span>    MySQL, PostgreSQL, MongoDB, Oracle, Redis
-  <span style="color: #F1FA8C">DevOps:</span>       Docker, Kubernetes, AWS, CI/CD (Jenkins, GitHub Actions)
-  <span style="color: #F1FA8C">Security:</span>     JWT, OAuth2, RBAC, OWASP Best Practices
-  <span style="color: #F1FA8C">Architecture:</span> Microservices, Clean Architecture, DDD, SOLID
-  <span style="color: #F1FA8C">Testing:</span>      JUnit, Mockito, Testcontainers, Postman
-
-<span style="color: #FFB86C; font-weight: bold;">🛠️ Tech Stack:</span>
-  <span style="color: #FF5555">■</span> Java <span style="color: #FF5555">■</span> Spring Boot <span style="color: #FF5555">■</span> MySQL <span style="color: #FF5555">■</span> PostgreSQL
-  <span style="color: #50FA7B">■</span> MongoDB <span style="color: #50FA7B">■</span> Docker <span style="color: #50FA7B">■</span> Kubernetes <span style="color: #50FA7B">■</span> AWS
-  <span style="color: #8BE9FD">■</span> Git <span style="color: #8BE9FD">■</span> GitHub Actions <span style="color: #8BE9FD">■</span> Jenkins <span style="color: #8BE9FD">■</span> Redis
-
-<span style="color: #BD93F9; font-weight: bold;">🚀 Featured Projects:</span>
-  <span style="color: #FF79C6">❯</span> Booking App (Spring Boot + MySQL + Frontend)
-  <span style="color: #FF79C6">❯</span> Student Management System (RESTful API)
-  <span style="color: #FF79C6">❯</span> E-commerce API (JWT Auth + Swagger)
-  <span style="color: #FF79C6"></span> Portfolio Website (Full-Stack)
-
-<span style="color: #F1FA8C; font-weight: bold;"> Connect with me:</span>
-  <span style="color: #8BE9FD"></span> Email: moudaseryassin@gmail.com
-  <span style="color: #8BE9FD">💼</span> LinkedIn: /in/moudather-yassin
-  <span style="color: #8BE9FD">🌐</span> Portfolio: protofolio-beqy.vercel.app
-
-<span style="color: #6272A4">───────────────────────────────────────────────────────</span>
-<span style="color: #6272A4">"The first rule of programming: If it works, don't touch it" 😄</span>
+<b>Contact.Email</b>: moudaseryassin@gmail.com
+<b>Contact.LinkedIn</b>: moudather-yassin-0260b2378
+<b>Contact.Portfolio</b>: protofolio-beqy.vercel.app
 </pre>
 
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<br>
+
+## 📊 Live Statistics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Repositories-49-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Followers-1-green?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Stars_Received-0-yellow?style=for-the-badge&logo=github" />
+</p>
+
 <div align="center">
-
-### 📊 GitHub Statistics
-
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -73,23 +76,49 @@
     </td>
   </tr>
 </table>
+</div>
 
 ### 🏆 GitHub Trophies
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=moudather-yassin&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=moudather-yassin&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
 
-###  Contribution Graph
+### 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=moudather-yassin&theme=react-dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moudather-yassin&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
-</div>
+<br>
 
-<div align="center">
+## 🚀 Projects | المشاريع
 
----
+- **Booking App** — Java + Spring Boot + MySQL + HTML/CSS/JS
+- **Student Management System** — Full CRUD REST API
+- **E-commerce RESTful API** — JWT & Swagger Docs
+- **Portfolio Website** — HTML/CSS/JS + Spring Boot Backend
 
-###  Currently Working On
+<br>
 
-![typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00DC82&width=600&lines=Building+Scalable+Microservices;Mastering+Spring+Boot+Security;Learning+Kubernetes+Deployment;Always+Coding+%F0%9F%92%BB)
+## 💡 Currently Working On
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00DC82&width=600&lines=Building+Scalable+Microservices;Mastering+Spring+Boot+Security;Learning+Kubernetes+Deployment;Always+Coding+%F0%9F%92%BB" alt="typing" />
+</p>
+
+<br>
+
+## 📬 Contact | تواصل معي
+
+📧 [moudaseryassin@gmail.com](mailto:moudaseryassin@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/moudather-yassin-0260b2378/)
+🌐 [Portfolio](https://protofolio-beqy.vercel.app/)
+
+<br>
+
+<p align="center" style="color:#6272A4">
+"The first rule of programming: If it works, don't touch it" 😄
+</p>
