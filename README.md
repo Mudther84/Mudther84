@@ -1,11 +1,12 @@
 <h1 align="center">Mudther Yassin</h1>
 <h3 align="center">مدثر ياسين</h3>
+<p align="center"><b>Full-Stack Developer • Back-End Engineer • Front-End React JS Engineer</b></p>
 
 <p align="center">
   <a href="https://github.com/Mudther84"><b>Follow</b></a> •
   <a href="mailto:moudaseryassin@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/Mudther84-0260b2378/">LinkedIn</a> •
-  <a href="https://protofolio-mkvlxfarv-mudther84s-projects.vercel.app/">Portfolio</a>
+  <a href="https://protofolio-zeta-nine.vercel.app/">Portfolio</a>
 </p>
 
 <p align="center">
@@ -22,8 +23,8 @@
 <br>
 
 <pre align="center">
-mudther@backend-dev
--------------------
+mudther@fullstack-dev
+---------------------
 <b>OS</b>: Java Spring Boot Enterprise Edition
 <b>Host</b>: Full-Stack Development Environment
 <b>Kernel</b>: Clean Architecture / DDD
@@ -31,11 +32,11 @@ mudther@backend-dev
 <b>IDE</b>: IntelliJ IDEA
 <b>Shell</b>: Maven / Gradle
 
-<b>Role</b>: Full-Stack Developer | Back-End Engineer | React JS Engineer | Front-End Developer
+<b>Role</b>: Full-Stack Developer | Back-End Engineer | Front-End React JS Engineer
 
 <b>Languages</b>: Java, Python, JavaScript, TypeScript, PHP, SQL, HTML5, CSS3
 <b>Back-End Frameworks</b>: Spring Boot, Spring MVC, Spring Data JPA, Spring Security, Django, Node.js
-<b>Front-End</b>: React, Next.js, Redux, Bootstrap, Tailwind CSS
+<b>Front-End</b>: React JS, Next.js, Redux, Bootstrap, Tailwind CSS
 <b>AI / ML</b>: TensorFlow, PyTorch, OpenCV
 <b>Databases</b>: MySQL, PostgreSQL, Oracle, MongoDB, Redis
 <b>DevOps &amp; Cloud</b>: Docker, Kubernetes, Jenkins, GitHub Actions, AWS, Google Cloud, Heroku
@@ -45,7 +46,7 @@ mudther@backend-dev
 
 <b>Contact.Email</b>: moudaseryassin@gmail.com
 <b>Contact.LinkedIn</b>: Mudther84-0260b2378
-<b>Contact.Portfolio</b>: protofolio-mkvlxfarv-mudther84s-projects.vercel.app
+<b>Contact.Portfolio</b>: protofolio-zeta-nine.vercel.app
 </pre>
 
 <br>
@@ -60,14 +61,14 @@ mudther@backend-dev
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -116,14 +117,14 @@ mudther@backend-dev
 - **Booking App** — Java + Spring Boot + MySQL + HTML/CSS/JS
 - **Student Management System** — Full CRUD REST API
 - **E-commerce RESTful API** — JWT & Swagger Docs
-- **Portfolio Website** — HTML/CSS/JS + Spring Boot Backend
+- **Portfolio Website** — React JS / HTML/CSS/JS + Spring Boot Backend — [View Live](https://protofolio-zeta-nine.vercel.app/)
 
 <br>
 
 ## 💡 Currently Working On
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00DC82&width=600&lines=Building+Scalable+Microservices;Mastering+Spring+Boot+Security;Learning+Kubernetes+Deployment;Always+Coding+%F0%9F%92%BB" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00DC82&width=600&lines=Building+Modern+React+JS+Interfaces;Building+Scalable+Microservices;Mastering+Spring+Boot+Security;Learning+Kubernetes+Deployment;Always+Coding+%F0%9F%92%BB" alt="typing" />
 </p>
 
 <br>
@@ -132,7 +133,7 @@ mudther@backend-dev
 
 📧 [moudaseryassin@gmail.com](mailto:moudaseryassin@gmail.com)
 💼 [LinkedIn](https://www.linkedin.com/in/Mudther84-0260b2378/)
-🌐 [Portfolio](https://protofolio-mkvlxfarv-mudther84s-projects.vercel.app/)
+🌐 [Portfolio](https://protofolio-zeta-nine.vercel.app/)
 
 <br>
 
